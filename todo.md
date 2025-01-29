@@ -142,12 +142,23 @@ https://www.bilibili.com/video/BV1yT411H7YK?vd_source=1f079d184f9abb71c0f8c3ad21
 
 # ML - 林轩田
 
+# meta
+133, 987, 23, 146
 
 
-其他
+# 其他
 单调栈（基础/矩形面积/贡献法/最小字典序）- 42
 常用数据结构（前缀和/差分/栈/队列/堆/字典树/并查集/树状数组/线段树）
 数学算法（数论/组合/概率期望/博弈/计算几何/随机算法）
 贪心与思维（基本贪心策略/反悔/区间/字典序/数学/思维/脑筋急转弯/构造）
 图论算法（DFS/BFS/拓扑排序/最短路/最小生成树/二分图/基环树/欧拉路径）
 字符串（KMP/Z函数/Manacher/字符串哈希/AC自动机/后缀数组/子序列自动机）
+
+db design
+write a b-tree from scratch
+maximal independent set （没有上司的舞会）
+矩阵中找到最大升序序列
+kadane's algorithms
+
+codeforces
+马拉车，状压DP，字符串哈希
