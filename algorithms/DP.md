@@ -151,7 +151,7 @@ https://leetcode.cn/problems/decode-ways-ii/solutions/1019513/acmjin-pai-ti-jie-
 2008. 出租车的最大盈利 1872
 2054. 两个最好的不重叠活动 1883
 
-- [ ] 1.25
+- [X] 1.25
 - TODO：周赛
 
 ### chapter 7
